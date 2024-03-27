@@ -1,0 +1,17 @@
+{
+  "name": "verifia",
+  "version": "1.0.0",
+  "description": "Decentralized identity verification protocol built on the Solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "decentralized",
+    "identity",
+    "verification",
+    "Solana"
+  ],
+
+}
